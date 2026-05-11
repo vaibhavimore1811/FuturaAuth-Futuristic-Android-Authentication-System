@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuturaAuth</string>
+    <string name="welcome_back">Welcome Back, Voyager</string>
+    <string name="login_desc">Access the future with your credentials.</string>
+    <string name="register_now">Create New Identity</string>
+    <string name="verify_otp">Security Verification</string>
+    <string name="otp_sent">We've sent a pulse to your device.</string>
+</resources>
